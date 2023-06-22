@@ -6,17 +6,14 @@
 
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Java Full Stack**
 - 🌹 I build pinterest clone website. [Pinterest](https://pinterestclone1.netlify.app/)
 - 🔭 I build indian recipes website. [Indian Food](https://indianfood.vercel.app/)
-- 👯 I build women clothing clone website. [**Anthropologie**](https://anthropologie1.netlify.app/)
-- 👨‍💻 All of my projects are available at [Portfolio](https://venkatesulu.vercel.app/)
 
-- 📝 I regularly write articles on [https://thoughts-venky.blogspot.com/](https://thoughts-venky.blogspot.com/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Mongo DB, Express and Node js.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, Servelet**
 
-- 📫 How to reach me **dommaravenkatesulu22@gmail.com**
+- 📫 How to reach me **kurubaprathyusha@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K9U8XbWRd-W07ENFlpfTnAw3k-kkSfMA/view?usp=sharing)
 
