@@ -1,13 +1,12 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/76251822/184340507-a428029b-e36e-4dcf-a266-ade9cc52e6cc.gif" width="40" height="40"></img>
 , I'm Prathyusha</h1>
-<h3 align="center">I am MERN stack developer, I am searching for a job related to my tech stack.</h3>
+<h3 align="center">I am JAVA Full stack developer, I am searching for a job related to my tech stack.</h3>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/76251822/184339637-654f2f93-fc9f-497d-b1e6-5e3dc680afeb.png"></img><p>
-
+<p align="center"><img src="https://github.com/Prathyusha-93910/Prathyusha-93910/assets/134360404/525386fc-e64d-4b32-bdc5-919dcb6b1aea"></img><p>
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Java Full Stack**
-- 🌹 I build pinterest clone website. [Pinterest](https://pinterestclone1.netlify.app/)
+- 🌹 I build Food Munch clone website. [Pinterest](https://pinterestclone1.netlify.app/)
 - 🔭 I build indian recipes website. [Indian Food](https://indianfood.vercel.app/)
 
 
@@ -44,7 +43,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathyusha-93910&theme=algolia&show_icons=true&locale=en&layout=compact" alt="Prathyusha-93910" /></p>
 
-[![Venkatesulu's github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathyusha-93910&theme=react-dark)](https://github.com/Prathyusha-93910/github-readme-activity-graph)
+[![Prathyusha github activity graph](https://activity-graph.herokuapp.com/graph?username=Prathyusha-93910&theme=react-dark)](https://github.com/Prathyusha-93910/github-readme-activity-graph)
 
 ## ❤ Views and Followers
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prathyusha-93910&label=Profile%20views&color=brightgreen" alt="Prathyusha-93910" /> </p>
