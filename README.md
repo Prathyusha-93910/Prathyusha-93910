@@ -6,15 +6,14 @@
 
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Java Full Stack**
-- 🌹 I build Food Munch clone website. [Pinterest](https://pinterestclone1.netlify.app/)
-- 🔭 I build indian recipes website. [Indian Food](https://indianfood.vercel.app/)
+- 🌹 I build Food Munch website. 
+- 🔭 I build Tourism website. 
 
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, J2EE**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, SQL, Servelet**
+- 📫 How to reach me **kurubaprathyusha231@gmail.com**
 
-- 📫 How to reach me **kurubaprathyusha@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1K9U8XbWRd-W07ENFlpfTnAw3k-kkSfMA/view?usp=sharing)
+- 📄 Know about my experiences [Resume])
 
 ## Connect with me:
 <p align="left">
