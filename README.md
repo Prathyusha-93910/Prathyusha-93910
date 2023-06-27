@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kurubaprathyusha231@gmail.com**
 
-- 📄 Know about my experiences [Resume])
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10QNtE2Q3M1DnrPAjsa98CkrvvElU6jrf/view?usp=drivesdk)
 
 ## Connect with me:
 <p align="left">
